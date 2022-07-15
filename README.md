@@ -3,17 +3,17 @@
 Name of your teams' final project
 -->
 # final-project
-## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `PARTICIPATING_UNIVERSITY`
+## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University_of_Kentucky`
 
 <!--
 List all of the members who developed the project and
 link to each members respective GitHub profile
 -->
-Developed by: 
-- [member1](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
-- [member2](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member3](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY` 
-- [member4](https://github.com/cbaker6) - `STUDENTS_UNIVERSITY`
+Developed by:
+- [Jeffery Millan](https://github.com/jmillan736) - `University_of_California_Berkeley`
+- [Bria Reed](https://github.com/briareed47) - `Cornell_University`
+- [Jose Salazar](https://github.com/JSalazar026) - `University_of_California_San_Diego`
+- [Brenton Figures-Mormon](https://github.com/SkullNightMegaFan) - `George_Mason_University`
 
 ## Description
 <!--
