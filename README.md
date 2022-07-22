@@ -2,7 +2,7 @@
 <!--
 Name of your teams' final project
 -->
-# Yang_Gang
+# snap-that-cat
 ## [National Action Council for Minorities in Engineering(NACME)](https://www.nacme.org) Google Applied Machine Learning Intensive (AMLI) at the `University_of_Kentucky`
 
 <!--
@@ -21,10 +21,13 @@ Give a short description on what your project accomplishes and what tools is use
 -->
 
 ## Usage instructions
-<!--
-Give details on how to install fork and install your project. You can get all of the python dependencies for your project by typing `pip3 freeze requirements.txt` on the system that runs your project. Add the generated `requirements.txt` to this repo.
--->
-1. Fork this repo
-2. Change directories into your project
-3. On the command line, type `pip3 install requirements.txt`
-4. ....
+1. Import the imgkit package (https://pypi.org/project/imgkit/)
+2. Import the chromedriver package (https://stackoverflow.com/questions/42478591/python-selenium-chrome-webdriver)
+3. Install networkx
+4. Install peartree
+5. Install osmnx
+6. Install numpy
+7. Install random
+8. Install folium==0.11.0
+9. Install imgkit==1.0.2
+10. Install selenium==3.141.0
