@@ -15,6 +15,7 @@ Developed by:
 - [Jose Salazar](https://github.com/JSalazar026) - `University_of_California_San_Diego`
 - [Brenton Figures-Mormon](https://github.com/SkullNightMegaFan) - `George_Mason_University`
 
+
 ## Description
 Problem: Trying to solve network congestion in smart cities
 
@@ -40,3 +41,21 @@ Our usage of Graphical Neural Networks was due to us using the prevoius iteratio
 
 
 https://ieeexplore.ieee.org/abstract/document/9415579?casa_token=meb9lMbqx_kAAAAA:OeLaM7aHmm6AiqqnrKZ6-a--7juGicj7rm0DD3oCQHv5HhvOE9ktgN3rf_kndmICu55Tv0Jy6Yw
+
+Our Power Point Presentation of our work. 
+https://docs.google.com/presentation/d/1pRuu5iETSQJIYwGXK6PNHz9Pci0nvsP35FzWiCAXKoQ/edit#slide=id.p
+Below will be the speaker notes that add some additional perspective on the project. 
+
+"The internet is a wonderful and amazing thing that allows us to connect to each other from thousands of miles away. Of course, we all know how annoying it is to be disconnected from the internet. Now most of the time maybe you just need to reset your router or maybe disconnect from the network. 
+These aren’t the situations that we’re aiming to solve. If you have ever been to a packed sports game or in the middle of a super busy city like New York you’ll know that sometimes you may run into network congestion. Which is a really academic way of saying that too many people are using the network at the same time." 
+
+Smart cities are normal cities that use internet of things devices think of cleaning devices, map kiosks, and even your real time bus tracker to help make you and I’s life easier. Additionally, smart cities use many sensors and gateways to help manage the abundance of data that is tracked by a living breathing city
+
+"According to the United Nations World Urbanization Prospects report that 55% of the world lives in urban areas and 68% of the world’s population by 2050. That’s well within our lifetime, folks. We are not just looking at a problem that can happen, one that very may well be if we are not proactive about it."
+
+"Basically now smart devices around the city such as kiosk don't need to send information from the cloud every minute and can route information to buses that send that information to gateways relieving stress on the network and prioritizing other information"
+
+"So how do graphs come into play for our machine learning model? We’ve seen multiple different neural networks take in different types of inputs in this class: We saw convolutional neural networks take in images, neural networks that just take in DataFrames, but never have we seen them take a graph as input. How is our ML model going to process a graph? Well, we make use of specialized neural networks, called graph neural networks. Graph neural networks take in graphs as an input, and trains and makes predictions based off of the information found in the nodes and edges of the graph. Graph neural networks can make three types of predictions: they can make node-level predictions, where graphs will make predictions about a specific node or object in the graph based on the surrounding nodes and edges, they can make edge-level predictions, where graphs will make predictions about the type of relationship between two objects in a graph, or they can make graph level predictions, where it predicts something about the entire graph. In our specific use-case, we want to make a node level prediction to determine how many gateways we want to have in the city, and where we want them."
+
+"In our project we mentioned the ability to route data from device to device. Think of point of interest as essentially hot spots that have frequent or high amounts of traffic on regular intervals. A wonderful example of this would be your local Starbucks where it’s always frantic during the morning rush. Now point of interest can also include one time events that have huge amounts of traffic like a sports game, music concerts or even a pokemon go raid. These places events are important as they drastically change the routes and ability to route data. If you have a 30,000 people at a concert Saturday night that’s going to affect our ability to route data through users resulting in a less effective data delivery."
+
