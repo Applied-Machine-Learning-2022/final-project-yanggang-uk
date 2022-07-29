@@ -39,6 +39,21 @@ https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html
 
 Our usage of Graphical Neural Networks was due to us using the prevoius iteration of this research project's data points. We used a torch_geometric.data.Data object as we were dealing with scalars points on a geographical points. The last paper created graph nodes of the optimal gateway placement. Using this data, we wanted to then find a target metric of 90% coverage for the city of Louisville.
 
+Below is our working documentation of the project and our thought process throughout.
+https://docs.google.com/document/d/1LhrckER-qpImON3ZEm0zBJsKl-4sF4W2iXL6MD-Mpn8/edit
+
+Our work of Ethical Consideration from the google doc can be found below.
+Ethical Considerations:
+
+"For this project we do acknowledge that we are measuring and determining likeliness of data transfer from sensor to individual and vice versa in a STANDARD scenario. This however does not take into account huge events that we will label as Points of Interest(or POIs for short). These events will classify as huge major events that will aggregate a large amount of people for an extended period of time. POIs can include concerts, court cases, protests, and the list goes on. 
+
+Privacy, of physical and social networks is going to be a huge component of the future of this project. The generation of data based on people and their daily routines is highly sensitive and needs to be protected at any cost neccessary. 
+
+The next phase of the project could include  going to a more individualistic case and tracking individual people's ability to transfer and send out data to and from sensors. This is too wide of a scope for this project ,but will be considered and investigated in future iterations. Some beginning thoughts are included below to better assist brainstorming. 
+In addition we realize that our data is contingent on the range of bus networks in cities. So if a city or town doesn’t have a thriving bus network it’s effectiveness will be straggled."
+
+
+
 
 https://ieeexplore.ieee.org/abstract/document/9415579?casa_token=meb9lMbqx_kAAAAA:OeLaM7aHmm6AiqqnrKZ6-a--7juGicj7rm0DD3oCQHv5HhvOE9ktgN3rf_kndmICu55Tv0Jy6Yw
 
